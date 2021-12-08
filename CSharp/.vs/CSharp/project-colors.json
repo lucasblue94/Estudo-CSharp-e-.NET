@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "96d920b0-53d7-457f-862d-3aa6bc49e03d": {
+      "ProjectGuid": "96d920b0-53d7-457f-862d-3aa6bc49e03d",
+      "DisplayName": "CSharp",
+      "ColorIndex": 0
+    },
+    "42d60162-358e-4467-8812-4bd71f01f922": {
+      "ProjectGuid": "42d60162-358e-4467-8812-4bd71f01f922",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
